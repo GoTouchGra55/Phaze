@@ -1,0 +1,244 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "19b7a127-39d6-4680-a495-26c262c14f5d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 215.9 91.44)
+		(size 53.34 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "02ba204b-af2b-4e86-bc35-9ab028fc0bb2")
+		(property "Sheetname" "Encoder"
+			(at 215.9 90.7284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Encoder.kicad_sch"
+			(at 215.9 135.2046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FOC"
+				(path "/19b7a127-39d6-4680-a495-26c262c14f5d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 73.66 91.44)
+		(size 68.58 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "036eba12-0a90-4479-9e69-999982c54e47")
+		(property "Sheetname" "Communication"
+			(at 73.66 90.7284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Communication.kicad_sch"
+			(at 73.66 135.2046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FOC"
+				(path "/19b7a127-39d6-4680-a495-26c262c14f5d"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 73.66 43.18)
+		(size 68.58 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3249cb40-ba33-4b55-93f6-0295361498ce")
+		(property "Sheetname" "Driver"
+			(at 73.66 42.4684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Driver.kicad_sch"
+			(at 73.66 86.9446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FOC"
+				(path "/19b7a127-39d6-4680-a495-26c262c14f5d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 43.18)
+		(size 53.34 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "511501c8-6d20-458a-a5d2-6232c1e9c9bb")
+		(property "Sheetname" "Inverter"
+			(at 215.9 42.4684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Inverter.kicad_sch"
+			(at 215.9 86.9446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FOC"
+				(path "/19b7a127-39d6-4680-a495-26c262c14f5d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 147.32 43.18)
+		(size 63.5 91.44)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "dc794775-85f5-4158-a386-5e79a8c9bd46")
+		(property "Sheetname" "MCU"
+			(at 147.32 42.4684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 147.32 135.2046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "FOC"
+				(path "/19b7a127-39d6-4680-a495-26c262c14f5d"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

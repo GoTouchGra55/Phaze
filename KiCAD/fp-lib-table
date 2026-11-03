@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "PAD") (type "KiCad") (uri "${KIPRJMOD}/PAD.pretty") (options "") (descr ""))
+	(lib (name "Shunt") (type "KiCad") (uri "${KIPRJMOD}/Shunt.pretty") (options "") (descr ""))
+)
