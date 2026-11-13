@@ -1,5 +1,5 @@
- # , Component / Item , Specifications , Qty. , Price (USD) ,
- 3 , SMD Resistor Assortment , 660 pcs, mixed packages and values , 1  , $0 ,
- 5 , SMD Ceramic Capacitor Assortment , 2,500 pcs, 50 values, mixed packages , 1  , $0$ ,
- 9 , JLCPCB PCB Fabrication & Assembly , PCB manufacturing and assembly order , 1 order , $241.02 ,
- , **GRAND TOTAL** , , , **$241.02** ,
+#,Component / Item,Specifications,Qty.,Price (USD),Supplier,Link
+1,SMD Resistor Assortment,"660 pcs, mixed packages and values",1,0.0,Daraz,https://www.daraz.com.np/products/000000pcs-040222-10hm-910k-ohm-5-80llasex-cp0pcs-u003d-4000pcs-i416649373-s1793309546.html
+2,SMD Ceramic Capacitor Assortment,"2,500 pcs, 50 values, mixed packages (0402/0603/0805)",1,0.0,Daraz,https://www.daraz.com.np/products/2500pcs-50-values-capacitor-smd-0402-0603-0805-smd-ceramic-capacitors-assortment-kit-1p-10uf-1pf-5pf-10pf-100pf-1nf-102-333-474-i1514281975-s12310158935.html
+3,JLCPCB PCB Fabrication & Assembly,PCB manufacturing and assembly order,1 order,241.02,JLCPCB,https://jlcpcb.com
+,GRAND TOTAL,,,241.02,,
